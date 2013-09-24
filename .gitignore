@@ -1,0 +1,8 @@
+.project
+CONTRIBUTING.md
+artisan
+phpunit.xml
+composer.lock
+/vendor/
+/app/config/local/
+readme.md
