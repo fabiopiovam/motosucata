@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://motosucata.laborautonomo.org',
+	'url' => 'http://motosucata.biz',
 
 	/*
 	|--------------------------------------------------------------------------

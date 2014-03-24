@@ -30,7 +30,7 @@ $env = $app->detectEnvironment(array(
 
 	'local'        => array('motosucata'),
 	'staging'      => array('laborautonomo.no-ip.biz', 'motosucata.laborautonomo.org'),
-	'production'   => array('motosucata.org'),
+	'production'   => array('motosucata.biz'),
 
 ));
 
