@@ -6,12 +6,12 @@
 		<title>MotoSucata</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="css/normalize.css">
-		<link rel="stylesheet" type="text/css" href="css/webflow.css">
-		<link rel="stylesheet" type="text/css" href="css/motosucata.webflow.css">
-		<link rel="icon" type="image/x-icon" href="https://y7v4p6k4.ssl.hwcdn.net/placeholder/favicon.ico">
-		<link rel="apple-touch-icon" href="https://y7v4p6k4.ssl.hwcdn.net/51e088cb308929c46c000051/thumbnail-starter.png">
-		<script type="text/javascript" src="js/webflow.js" defer></script>
+		<link rel="stylesheet" type="text/css" href="/css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="/css/webflow.css">
+		<link rel="stylesheet" type="text/css" href="/css/motosucata.webflow.css">
+		<link rel="icon" type="image/x-icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/images/thumbnail-starter.png">
+		<script type="text/javascript" src="/js/webflow.js" defer></script>
 	</head><body>
 		<div class="nav-section">
 			<div class="w-container">
