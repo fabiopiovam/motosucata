@@ -8,6 +8,9 @@ readme.md
 /app/config/staging
 /app/config/production
 
+# Cache
+/app/storage/cache/*
+
 # Composer
 composer.phar
 composer.lock
